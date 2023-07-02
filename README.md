@@ -1,8 +1,11 @@
 i. Staging a change
-git add
+
+Answer:git add
 
 ii. Committing and change
-git commit -m "message"
+
+Answer:git commit -m "message"
 
 iii. Pushing a committed change.
-git push
+
+Answer:git push
